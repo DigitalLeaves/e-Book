@@ -1,0 +1,20 @@
+---
+title:
+- type: main
+  text: The title of your book goes here
+- type: subtitle
+  text: The subtitle of your book goes here
+creator:
+- role: author
+  text: Your name here
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher: Self Published
+rights: Copyright © 2019 Write here some copyright line
+date: 20XX-MM-DD
+lang: en-US
+description: Write a one or two line description of your book here.
+cover-image: cover.jpg
+css: book.css
+... 
